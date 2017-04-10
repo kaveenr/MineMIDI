@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MINEMIDI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MINEMIDI_jar</output-path>
+    <root id="archive" name="MINEMIDI.jar">
+      <element id="module-output" name="MINEMIDI" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Build/spigot-api-1.10.2-R0.1-20161012.085000-80.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
